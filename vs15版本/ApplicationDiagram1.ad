@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Visual Studio 生成的基于系统定义模型(SDM)的文件。-->
+<!--建议不要手动编辑此文件，这可能会导致错误。-->
+<Whitehorse>
+  <Solution><SystemDefinitionModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Solution" Version="1.0.0.0" Culture="zh-CN" xmlns="http://schemas.microsoft.com/SystemDefinitionModel/2005/1">
+  <DesignData>
+    <VisualStudio xmlns="http://schemas.microsoft.com/SystemDefinitionModel/2005/1/DesignData/VisualStudio">
+      <ModelElement Id="d2e041be9879412ca27458478df5450e" Type="Microsoft.VisualStudio.EnterpriseTools.Sdm.Modeling.SolutionModelRoot">
+        <ModelElement Id="2fc49daa574f4b54a4a0ac45ac61ba6b" Type="Microsoft.VisualStudio.EnterpriseTools.Application.Modeling.Diagrams.SolutionDiagram">
+          <Property Name="IsExpanded" Value="true" />
+          <Property Name="AbsoluteBounds" Value="0, 0, 11, 8.5" />
+          <Property Name="IsCompleteView" Value="true" />
+          <Property Name="DiagramId" Value="6c78a3bb-d447-4a60-b547-90d606db27f6" />
+          <Property Name="Name" Value="ApplicationDiagram1" />
+          <Property Name="BaseFontName" Value="Microsoft YaHei UI" />
+          <Property Name="BaseFontSize" Value="0.125" />
+          <Relationship Id="d9d8ccfb72de4c86965151a160b229ec" Type="Microsoft.VisualStudio.Modeling.SubjectHasPresentation" Role1="@d2e041be9879412ca27458478df5450e" RoleType1="Microsoft.VisualStudio.Modeling.SubjectHasPresentation.Subject" />
+        </ModelElement>
+      </ModelElement>
+    </VisualStudio>
+  </DesignData>
+</SystemDefinitionModel></Solution>
+  <SdmDocument><SystemDefinitionModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DEFAULT" Version="1.0.0.0" Culture="zh-CN" DocumentLanguage="zh-CN" xmlns="http://schemas.microsoft.com/SystemDefinitionModel/2005/1">
+  <Import Alias="System" Name="System" Version="1.0.60130.0" />
+  <Import Alias="MicrosoftDistributedApplication" Name="Microsoft.DistributedApplication" Version="1.0.60130.0" />
+  <DesignData>
+    <VisualStudio xmlns="http://schemas.microsoft.com/SystemDefinitionModel/2005/1/DesignData/VisualStudio">
+      <ModelElement Id="b015f82f53994376be67fa9495829506" Type="Microsoft.VisualStudio.EnterpriseTools.Application.Modeling.DeploymentDiagramDocument">
+        <Property Name="DocumentType" Value="ApplicationCompoundComponent" />
+        <Property Name="Version" Value="1" />
+      </ModelElement>
+    </VisualStudio>
+  </DesignData>
+  <SystemDefinition Name="Default" Extends="MicrosoftDistributedApplication:DistributedApplication" SimulationRoot="false">
+    <DesignData>
+      <VisualStudio xmlns="http://schemas.microsoft.com/SystemDefinitionModel/2005/1/DesignData/VisualStudio">
+        <ModelElement Type="Microsoft.VisualStudio.EnterpriseTools.Application.Modeling.ApplicationCompoundComponentType" />
+      </VisualStudio>
+    </DesignData>
+  </SystemDefinition>
+</SystemDefinitionModel></SdmDocument>
+</Whitehorse>

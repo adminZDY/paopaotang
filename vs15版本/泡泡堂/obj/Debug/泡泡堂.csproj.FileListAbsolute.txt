@@ -1,0 +1,11 @@
+C:\Users\郑\Desktop\泡泡堂\泡泡堂\obj\Debug\泡泡堂.GameMain.resources
+C:\Users\郑\Desktop\泡泡堂\泡泡堂\obj\Debug\泡泡堂.Properties.Resources.resources
+C:\Users\郑\Desktop\泡泡堂\泡泡堂\obj\Debug\泡泡堂.csproj.GenerateResource.Cache
+C:\Users\郑\Desktop\泡泡堂\泡泡堂\bin\Debug\泡泡堂.exe
+C:\Users\郑\Desktop\泡泡堂\泡泡堂\bin\Debug\泡泡堂.pdb
+C:\Users\郑\Desktop\泡泡堂\泡泡堂\obj\Debug\泡泡堂.exe
+C:\Users\郑\Desktop\泡泡堂\泡泡堂\obj\Debug\泡泡堂.pdb
+C:\Users\郑\Desktop\泡泡堂\泡泡堂\obj\Debug\泡泡堂.泡泡堂总窗体.resources
+C:\Users\郑\Desktop\泡泡堂\泡泡堂\obj\Debug\泡泡堂.UserControl1.resources
+C:\Users\郑\Desktop\泡泡堂\泡泡堂\obj\Debug\泡泡堂.csprojAssemblyReference.cache
+C:\Users\郑\Desktop\泡泡堂\泡泡堂\obj\Debug\泡泡堂.csproj.CoreCompileInputs.cache

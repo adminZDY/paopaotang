@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="泡泡堂.BaseEntity" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>BaseEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.Bomb" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAgAAAAAAAAAAAAAAAAAAIAAAAAAACAA=</HashCode>
+      <FileName>Bomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.Enemy" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.Fire" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAIAAAAAACCAA=</HashCode>
+      <FileName>Fire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.GameMain" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAAAAAAAACIAAAGQAAAAAQAAAABgAAAAAE=</HashCode>
+      <FileName>GameMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.GameManager" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAUAARAUAAAgAFAAQAQAQAAiAAAAAAEMQAAAgAAEA=</HashCode>
+      <FileName>GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.GameMap" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAAAABAkAAQAAIAIAAAAAQAAAAAAQAAQAAIBA=</HashCode>
+      <FileName>GameMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.GameRole" Collapsed="true">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAIQAYgAAEAAAAAABAAAAAAAAIAAAAAABAAE=</HashCode>
+      <FileName>GameRole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.Hero" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.HitCheck" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HitCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.InitResoure" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAACAAAAAAAAAEAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InitResoure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.Keyboard" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAIgAAAAAkAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>KeyBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.Prize" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgQAAAAAAAAAAAEAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Prize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.Program" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.SoilWall" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>SoilWall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.UtilityResource" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECAgADIEAAEAAIARKYCAAAkgyBQAAIAIAoAEAA4AAIA=</HashCode>
+      <FileName>UtilityResource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.Properties.Resources" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAgAAAAKhAAAAJEAAAAQCEAAAAAAAAAACAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="泡泡堂.Properties.Settings" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="泡泡堂.GridType" Collapsed="true">
+    <Position X="18.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIgAAAIAAAAQAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>GameMap.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="泡泡堂.Direction" Collapsed="true">
+    <Position X="16.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAECACAAAAAAAI=</HashCode>
+      <FileName>GameRole.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="泡泡堂.PrizeType" Collapsed="true">
+    <Position X="20" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAABAKAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Prize.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
